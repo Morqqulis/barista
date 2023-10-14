@@ -1,3 +1,3 @@
 # barista Landing page
-## link[https://morqqulis.github.io/barista/]
+## [Link to Visit site](https://morqqulis.github.io/barista/)
 Barista html/css Landing page
